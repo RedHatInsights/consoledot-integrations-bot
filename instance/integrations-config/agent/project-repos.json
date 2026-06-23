@@ -1,0 +1,43 @@
+{
+  "sources-api-go": {
+    "url": "git@github.com:consoledot-integrations-bot/sources-api-go.git",
+    "upstream": "git@github.com:RedHatInsights/sources-api-go.git"
+  },
+  "notifications-backend": {
+    "url": "git@github.com:consoledot-integrations-bot/notifications-backend.git",
+    "upstream": "git@github.com:RedHatInsights/notifications-backend.git"
+  },
+  "payload-tracker": {
+    "url": "git@github.com:consoledot-integrations-bot/payload-tracker-go.git",
+    "upstream": "git@github.com:RedHatInsights/payload-tracker-go.git"
+  },
+  "sources-superkey-worker": {
+    "url": "git@github.com:consoledot-integrations-bot/sources-superkey-worker.git",
+    "upstream": "git@github.com:RedHatInsights/sources-superkey-worker.git"
+  },
+  "sources-monitor-go": {
+    "url": "git@github.com:consoledot-integrations-bot/sources-monitor-go.git",
+    "upstream": "git@github.com:RedHatInsights/sources-monitor-go.git"
+  },
+  "export-service-go": {
+    "url": "git@github.com:consoledot-integrations-bot/export-service-go-fork.git",
+    "upstream": "git@github.com:RedHatInsights/export-service-go.git"
+  },
+  "insights-ingress-go": {
+    "url": "git@github.com:consoledot-integrations-bot/insights-ingress-go.git",
+    "upstream": "git@github.com:RedHatInsights/insights-ingress-go.git"
+  },
+  "insights-storage-broker": {
+    "url": "git@github.com:consoledot-integrations-bot/insights-storage-broker.git",
+    "upstream": "git@github.com:RedHatInsights/insights-storage-broker.git"
+  },
+  "scheduler": {
+    "url": "git@github.com:consoledot-integrations-bot/scheduler.git",
+    "upstream": "git@github.com:RedHatInsights/scheduler.git"
+  },
+  "app-interface-hcc-integration": {
+    "url": "git@gitlab.cee.redhat.com:consoledot-integrations-bot/app-interface.git",
+    "upstream": "git@gitlab.cee.redhat.com:service/app-interface.git",
+    "host": "gitlab"
+  }
+}

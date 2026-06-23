@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "mcp-atlassian": {
+      "url": "https://redhat.atlassian.net"
+    }
+  }
+}
