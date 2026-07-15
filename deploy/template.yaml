@@ -6,7 +6,7 @@ parameters:
 - name: NAMESPACE
   value: ${NAMESPACE}
 - name: BOT_IMAGE
-  value: quay.io/redhat-services-prod/hcc-integrations-tenant consoledot-integrations-bot
+  value: quay.io/redhat-services-prod/hcc-integrations-tenant/consoledot-integrations-bot
 - name: IMAGE_TAG
   required: true
 - name: BOT_LABEL
