@@ -34,5 +34,10 @@
   "scheduler": {
     "url": "https://github.com/platex-rehor-bot/scheduler.git",
     "upstream": "https://github.com/RedHatInsights/scheduler.git"
+  },
+  "app-interface": {
+    "url": "https://gitlab.cee.redhat.com/platform-experience-services-bot/app-interface.git",
+    "upstream": "https://gitlab.cee.redhat.com/service/app-interface.git",
+    "host": "gitlab"
   }
 }
