@@ -7,6 +7,10 @@
     "url": "https://github.com/platex-rehor-bot/notifications-backend.git",
     "upstream": "https://github.com/RedHatInsights/notifications-backend.git"
   },
+  "notifications-gw": {
+    "url": "https://github.com/platex-rehor-bot/notifications-gw.git",
+    "upstream": "https://github.com/RedHatInsights/notifications-gw.git"
+  },
   "payload-tracker": {
     "url": "https://github.com/platex-rehor-bot/payload-tracker-go.git",
     "upstream": "https://github.com/RedHatInsights/payload-tracker-go.git"
