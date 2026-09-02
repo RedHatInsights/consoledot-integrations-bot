@@ -43,5 +43,35 @@
     "url": "https://gitlab.cee.redhat.com/platform-experience-services-bot/app-interface.git",
     "upstream": "https://gitlab.cee.redhat.com/service/app-interface.git",
     "host": "gitlab"
+  },
+  "iqe-notifications-plugin": {
+    "url": "https://gitlab.cee.redhat.com/platform-experience-services-bot/iqe-notifications-plugin.git",
+    "upstream": "https://gitlab.cee.redhat.com/insights-qe/iqe-notifications-plugin.git",
+    "host": "gitlab"
+  },
+  "iqe-payload-tracker-plugin": {
+    "url": "https://gitlab.cee.redhat.com/platform-experience-services-bot/iqe-payload-tracker-plugin.git",
+    "upstream": "https://gitlab.cee.redhat.com/insights-qe/iqe-payload-tracker-plugin.git",
+    "host": "gitlab"
+  },
+  "iqe-scheduler-plugin": {
+    "url": "https://gitlab.cee.redhat.com/platform-experience-services-bot/iqe-scheduler-plugin.git",
+    "upstream": "https://gitlab.cee.redhat.com/insights-qe/iqe-scheduler-plugin.git",
+    "host": "gitlab"
+  },
+  "iqe-sources-plugin": {
+    "url": "https://gitlab.cee.redhat.com/platform-experience-services-bot/iqe-sources-plugin.git",
+    "upstream": "https://gitlab.cee.redhat.com/insights-qe/iqe-sources-plugin.git",
+    "host": "gitlab"
+  },
+  "iqe-ingress-plugin": {
+    "url": "https://gitlab.cee.redhat.com/platform-experience-services-bot/iqe-ingress-plugin.git",
+    "upstream": "https://gitlab.cee.redhat.com/insights-qe/iqe-ingress-plugin.git",
+    "host": "gitlab"
+  },
+  "iqe-export-service-plugin": {
+    "url": "https://gitlab.cee.redhat.com/platform-experience-services-bot/iqe-export-service-plugin.git",
+    "upstream": "https://gitlab.cee.redhat.com/insights-qe/iqe-export-service-plugin.git",
+    "host": "gitlab"
   }
 }
