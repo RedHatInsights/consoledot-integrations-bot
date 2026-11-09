@@ -11,6 +11,14 @@
     "url": "https://github.com/platex-rehor-bot/notifications-gw.git",
     "upstream": "https://github.com/RedHatInsights/notifications-gw.git"
   },
+  "notifications-frontend": {
+    "url": "https://github.com/platex-rehor-bot/notifications-frontend.git",
+    "upstream": "https://github.com/RedHatInsights/notifications-frontend.git"
+  },
+  "user-preferences-frontend": {
+    "url": "https://github.com/platex-rehor-bot/user-preferences-frontend.git",
+    "upstream": "https://github.com/RedHatInsights/user-preferences-frontend.git"
+  },
   "payload-tracker": {
     "url": "https://github.com/platex-rehor-bot/payload-tracker-go.git",
     "upstream": "https://github.com/RedHatInsights/payload-tracker-go.git"
@@ -38,6 +46,10 @@
   "scheduler": {
     "url": "https://github.com/platex-rehor-bot/scheduler.git",
     "upstream": "https://github.com/RedHatInsights/scheduler.git"
+  },
+  "pdf-generator": {
+    "url": "https://github.com/platex-rehor-bot/pdf-generator.git",
+    "upstream": "https://github.com/RedHatInsights/pdf-generator.git"
   },
   "app-interface": {
     "url": "https://gitlab.cee.redhat.com/platform-experience-services-bot/app-interface.git",
